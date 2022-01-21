@@ -7,5 +7,6 @@ package com.zmw;
 public class GitTestDemo {
     public static void main(String[] args) {
         System.out.println("hello,git1");
+        System.out.println("hello,git2");
     }
 }
